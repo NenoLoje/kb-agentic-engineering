@@ -7,7 +7,7 @@ Diese Dateien sind als inhaltliche Bausteine für einen Vortrag aufgebaut. Jede 
 1. `00-storyline.md`
 2. `01-one-shot-vibe-coding.md`
 3. `02-grilling-clarification.md`
-4. `03-planning-mode.md`
+4. `03-plan-mode.md`
 5. `04-spec-driven-development.md`
 6. `05-agentic-engineering-harness.md`
 7. `06-agentic-team.md`

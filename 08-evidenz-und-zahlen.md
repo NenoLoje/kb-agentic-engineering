@@ -63,7 +63,7 @@ AI Productivity ist nicht dasselbe wie Software Delivery Performance.
 
 ---
 
-## 4. Grilling vor Planning
+## 4. Grilling vor dem Plan Mode
 
 **GitHub Spec Kit**
 
