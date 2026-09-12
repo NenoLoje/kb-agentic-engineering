@@ -22,7 +22,7 @@ Fragen zu Rollen, Statusmodell, Prioritäten, Authentifizierung, Datenhaltung, S
 **Sichtbarer Unterschied:**  
 Aus einer vagen Idee entsteht ein definierter Scope.
 
-## 3. plan mode
+## 3. Plan Mode
 
 Agent analysiert Stack und Codebase und schlägt Architektur, Datenmodell, API und Umsetzungsschritte vor.
 

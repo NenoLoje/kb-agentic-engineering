@@ -1,8 +1,8 @@
-# Stufe 3: plan mode
+# Stufe 3: Plan Mode
 
 ## Kernbotschaft
 
-Der plan mode trennt Analyse und Entscheidung von der Umsetzung. Der Agent untersucht zuerst Codebase, Abhängigkeiten und Optionen und schlägt dann einen nachvollziehbaren Implementierungsweg vor.
+Der Plan Mode trennt Analyse und Entscheidung von der Umsetzung. Der Agent untersucht zuerst Codebase, Abhängigkeiten und Optionen und schlägt dann einen nachvollziehbaren Implementierungsweg vor.
 
 ## Typischer Ablauf
 
@@ -10,7 +10,7 @@ Der plan mode trennt Analyse und Entscheidung von der Umsetzung. Der Agent unter
 Explore → Analyze → Decide → Plan → Implement
 ```
 
-## Was der plan mode besser macht
+## Was der Plan Mode besser macht
 
 - Bestehende Patterns werden berücksichtigt
 - Auswirkungen auf mehrere Komponenten werden sichtbar
@@ -20,20 +20,20 @@ Explore → Analyze → Decide → Plan → Implement
 
 ## Abgrenzung zu Grilling
 
-| Grilling | plan mode |
+| Grilling | Plan Mode |
 |---|---|
 | Klärt den Intent | Klärt die Umsetzung |
 | Produkt- und Scope-Fragen | Architektur- und Implementierungsfragen |
 | "Was soll passieren?" | "Wie bauen wir es?" |
 | Vor dem technischen Plan | Nach geklärten Anforderungen |
 
-## Die Grenze des plan mode in einer einzelnen Session
+## Die Grenze des Plan Mode in einer einzelnen Session
 
 Ein guter Plan ist wertvoll. Wenn er aber nur im Chat oder im flüchtigen Session-Kontext existiert, ist er schwer reviewbar, schwer versionierbar und beim nächsten Agentenlauf nicht automatisch verfügbar.
 
 ## Take-away
 
-> Der plan mode macht aus Code-Generierung eine bewusste technische Entscheidung. Er macht die Entscheidung aber noch nicht automatisch zu dauerhaftem Projektwissen.
+> Der Plan Mode macht aus Code-Generierung eine bewusste technische Entscheidung. Er macht die Entscheidung aber noch nicht automatisch zu dauerhaftem Projektwissen.
 
 ## Übergang
 

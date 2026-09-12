@@ -31,7 +31,7 @@ AI fragt → Mensch entscheidet
 - Akzeptanzkriterien entstehen früher
 - Der Mensch behält Entscheidungen, statt sie unbewusst an das Modell zu delegieren
 
-## Reihenfolge: vor dem plan mode
+## Reihenfolge: vor dem Plan Mode
 
 GitHub Spec Kit beschreibt für Agentic SDD explizit folgende Reihenfolge:
 
